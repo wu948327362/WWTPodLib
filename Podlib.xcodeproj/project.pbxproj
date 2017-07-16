@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4811A3481F1B8DEF00437A65 /* WWTControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4811A3471F1B8DEF00437A65 /* WWTControlView.m */; };
 		48DAC08D1F1B3E6500AE005D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 48DAC08C1F1B3E6500AE005D /* main.m */; };
 		48DAC0901F1B3E6500AE005D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 48DAC08F1F1B3E6500AE005D /* AppDelegate.m */; };
 		48DAC0931F1B3E6500AE005D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 48DAC0921F1B3E6500AE005D /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4811A3461F1B8DEE00437A65 /* WWTControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WWTControlView.h; sourceTree = "<group>"; };
+		4811A3471F1B8DEF00437A65 /* WWTControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WWTControlView.m; sourceTree = "<group>"; };
 		48DAC0881F1B3E6500AE005D /* Podlib.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Podlib.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48DAC08C1F1B3E6500AE005D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		48DAC08E1F1B3E6500AE005D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				48DAC08F1F1B3E6500AE005D /* AppDelegate.m */,
 				48DAC0911F1B3E6500AE005D /* ViewController.h */,
 				48DAC0921F1B3E6500AE005D /* ViewController.m */,
+				4811A3461F1B8DEE00437A65 /* WWTControlView.h */,
+				4811A3471F1B8DEF00437A65 /* WWTControlView.m */,
 				48DAC0941F1B3E6500AE005D /* Main.storyboard */,
 				48DAC0971F1B3E6500AE005D /* Assets.xcassets */,
 				48DAC0991F1B3E6500AE005D /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				48DAC0931F1B3E6500AE005D /* ViewController.m in Sources */,
+				4811A3481F1B8DEF00437A65 /* WWTControlView.m in Sources */,
 				48DAC0901F1B3E6500AE005D /* AppDelegate.m in Sources */,
 				48DAC08D1F1B3E6500AE005D /* main.m in Sources */,
 			);
@@ -298,6 +304,7 @@
 				48DAC0A11F1B3E6500AE005D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
