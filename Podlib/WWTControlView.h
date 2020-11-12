@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface WWTControlView : UIView
-
+@property(nonatomic,copy)NSString *name;
 @end
