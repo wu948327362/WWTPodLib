@@ -11,5 +11,5 @@
 @interface WWTControlView : UIView
 @property(nonatomic,copy)NSString *name;
 @property(nonatomic,strong)NSString *branchName;
-@property(nonatomic,strong)NSString *branchName1;
+@property(nonatomic,strong)NSString *branchName12;
 @end
