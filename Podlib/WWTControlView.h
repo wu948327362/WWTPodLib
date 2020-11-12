@@ -12,4 +12,5 @@
 @property(nonatomic,copy)NSString *name;
 @property(nonatomic,strong)NSString *branchName;
 @property(nonatomic,strong)NSString *branchName11;
+@property(nonatomic,strong)NSString *branchName12;
 @end
