@@ -11,7 +11,7 @@
 @implementation WWTControlView
 
 - (void)test{
-    
+    NSLog(@"1234");
 }
 
 @end
