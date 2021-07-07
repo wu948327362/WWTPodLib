@@ -12,7 +12,7 @@
 
 - (void)test{
     NSLog(@"1234");
-    NSLog(@"1");
+    NSLog(@"12");
 }
 
 @end
