@@ -13,7 +13,7 @@
 - (void)test{
     NSLog(@"1234");
     NSLog(@"12");
-    NSLog(@"3.0.1");
+    NSLog(@"3.0.2");
 }
 
 @end
